@@ -6,7 +6,7 @@ I’m passionate about building robust backend systems, secure applications, and
 
 ## 💼 About Me
 
-🎓 Bachelor’s in Computer Science (CGPA 3.57/4.0) – University of Engineering and Technology, Taxila, Pakistan
+🎓 Bachelor’s in Computer Science - University of Engineering and Technology, Taxila, Pakistan
 
 🌐 6+ years of professional experience in Backend Development, Cybersecurity, AI modules, and Data Systems
 
@@ -29,34 +29,40 @@ AI & Automation	Python ML libraries, AI modules integration, Automation scripts
 
 Tools & Others	Git, Linux, Agile, Jira, Unit Testing
 
-## 📊 GitHub Stats
-![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hashimiac&label=Profile%20views&color=0e75b6&style=flat" alt="Hashim" />
+</p>
 
 ## 💡 Notable Projects
 ### 1. Digital Forensics Platform
 Built a scalable platform for forensic analysis and reporting
+
 Integrated automated data parsing, analysis modules, and visual dashboards
+
 Tech Stack: Python, FastAPI, PostgreSQL, Docker, React
 
 ### 2. SaaS Project Management System
 Developed a multi-tenant SaaS solution for project collaboration, timelines, and task management
+
 Features: Role-based access control, Notifications, Audit Logs, Real-time dashboards
+
 Tech Stack: Python, Flask, PostgreSQL, Redis, AWS
 
 ### 3. AI-driven Data Analysis Tool
 Implemented ML-powered insights on cybersecurity logs
+
 Enabled automated anomaly detection and reporting
+
 Tech Stack: Python, Pandas, Scikit-learn, FastAPI
 
 ## 🌱 What I’m Learning
 Advanced Cloud Architectures & Microservices
+
 AI applications in Cybersecurity & Digital Forensics
+
 SaaS product scaling & DevOps automation
 
 ## 📫 Connect With Me
-LinkedIn: linkedin.com/in/hashim-chaudhry
+LinkedIn: linkedin.com/in/hashim-i-chaudhry
 
-Email: hashim.chaudhry@example.com
-
-Portfolio: your-portfolio-link.com
+Portfolio: hashimiac.github.io/portfolio
