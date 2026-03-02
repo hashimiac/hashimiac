@@ -18,7 +18,6 @@
 * 🔍 Expert in digital forensics, building secure and scalable applications, and designing SaaS products
 * ⚡ Passionate about AI integration in cybersecurity and forensic tools
 * 🛠 Skills: Python, FastAPI, Flask, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
-* 📫 Reach me: **[chashimiftikhar6@gmail.com](mailto:chashimiftikhar6@gmail.com)**
 
 ---
 
@@ -26,7 +25,7 @@
 
 <p align="center">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,java,cplusplus,javascript" title="Python, Java, C++, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" title="Python, Java, C++, JavaScript"/>
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=flask,nextjs,django" title=" Flask, Next.js, TKinter, Django"/>
   <!-- Databases -->
