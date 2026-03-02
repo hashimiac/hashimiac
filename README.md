@@ -3,21 +3,30 @@ Backend Engineer | Python (FastAPI, Flask) | System Architect | Digital Forensic
 
 I’m passionate about building robust backend systems, secure applications, and AI-powered solutions. With 6+ years of experience in software engineering, digital forensics, cybersecurity, and scalable SaaS platforms, I specialize in translating complex technical requirements into efficient, secure, and maintainable solutions.
 
+
 ## 💼 About Me
 
 🎓 Bachelor’s in Computer Science (CGPA 3.57/4.0) – University of Engineering and Technology, Taxila, Pakistan
+
 🌐 6+ years of professional experience in Backend Development, Cybersecurity, AI modules, and Data Systems
+
 🔍 Expert in digital forensics, building secure and scalable applications, and designing SaaS products
+
 ⚡ Passionate about AI integration in cybersecurity and forensic tools
+
 🛠 Skills: Python, FastAPI, Flask, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
 
 ## 🛠 Core Skills
-Category	Skills
 Backend	Python, FastAPI, Flask, Django, REST APIs, Microservices
+
 Database	PostgreSQL, MySQL, MongoDB, SQLAlchemy
+
 Cloud & DevOps	Docker, AWS, CI/CD, Nginx
+
 Security & Forensics	Digital Forensics, Incident Response, Cybersecurity Tools
+
 AI & Automation	Python ML libraries, AI modules integration, Automation scripts
+
 Tools & Others	Git, Linux, Agile, Jira, Unit Testing
 
 ## 📊 GitHub Stats
@@ -45,7 +54,7 @@ Advanced Cloud Architectures & Microservices
 AI applications in Cybersecurity & Digital Forensics
 SaaS product scaling & DevOps automation
 
-##📫 Connect With Me
+## 📫 Connect With Me
 LinkedIn: linkedin.com/in/hashim-chaudhry
 
 Email: hashim.chaudhry@example.com
