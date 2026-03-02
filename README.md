@@ -1,68 +1,61 @@
-# 👋 Hi, I’m Hashim Chaudhry
-Backend Engineer | Python (FastAPI, Flask) | System Architect | Digital Forensics & SaaS Developer | AI & Cybersecurity Enthusiast
-
-I’m passionate about building robust backend systems, secure applications, and AI-powered solutions. With 6+ years of experience in software engineering, digital forensics, cybersecurity, and scalable SaaS platforms, I specialize in translating complex technical requirements into efficient, secure, and maintainable solutions.
-
-
-## 💼 About Me
-
-🎓 Bachelor’s in Computer Science - University of Engineering and Technology, Taxila, Pakistan
-
-🌐 6+ years of professional experience in Backend Development, Cybersecurity, AI modules, and Data Systems
-
-🔍 Expert in digital forensics, building secure and scalable applications, and designing SaaS products
-
-⚡ Passionate about AI integration in cybersecurity and forensic tools
-
-🛠 Skills: Python, FastAPI, Flask, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
-
-## 🛠 Core Skills
-Backend	Python, FastAPI, Flask, Django, REST APIs, Microservices
-
-Database	PostgreSQL, MySQL, MongoDB, SQLAlchemy
-
-Cloud & DevOps	Docker, AWS, CI/CD, Nginx
-
-Security & Forensics	Digital Forensics, Incident Response, Cybersecurity Tools
-
-AI & Automation	Python ML libraries, AI modules integration, Automation scripts
-
-Tools & Others	Git, Linux, Agile, Jira, Unit Testing
-
+<h1 align="center">Hi 👋, I'm Hashim Chaudhry</h1>
+<h3 align="center">Backend Engineer | Digital Forensics & SaaS Developer | Python & AI Enthusiast</h3>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hashimiac&label=Profile%20views&color=0e75b6&style=flat" alt="Hashim" />
+  <img src="https://komarev.com/ghpvc/?username=hashimiac&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <a href="mailto:chashimiftikhar6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836" alt="email"/>
+  </a>
+  <a href="https://github.com/hashimiac" target="_blank">
+    <img src="https://img.shields.io/github/followers/hashimiac?label=Follow&style=social" alt="github"/>
+  </a>
 </p>
 
-## 💡 Notable Projects
-### 1. Digital Forensics Platform
-Built a scalable platform for forensic analysis and reporting
+---
 
-Integrated automated data parsing, analysis modules, and visual dashboards
+### 💼 About Me
+* 🎓 Bachelor’s in Computer Science - University of Engineering and Technology, Taxila, Pakistan
+* 🌐 6+ years of professional experience in Backend Development, Cybersecurity, AI modules, and Data Systems
+* 🔍 Expert in digital forensics, building secure and scalable applications, and designing SaaS products
+* ⚡ Passionate about AI integration in cybersecurity and forensic tools
+* 🛠 Skills: Python, FastAPI, Flask, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
+* 📫 Reach me: **[chashimiftikhar6@gmail.com](mailto:chashimiftikhar6@gmail.com)**
 
-Tech Stack: Python, FastAPI, PostgreSQL, Docker, React
+---
 
-### 2. SaaS Project Management System
-Developed a multi-tenant SaaS solution for project collaboration, timelines, and task management
+### 🛠️ Tech Stack & Expertise
 
-Features: Role-based access control, Notifications, Audit Logs, Real-time dashboards
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=python,java,cplusplus,javascript" title="Python, Java, C++, JavaScript"/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=flask,nextjs,django" title=" Flask, Next.js, TKinter, Django"/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis" title="Mysql, Mongodb, Sqlite, Redis"/>
+  <!-- Tools & API -->
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <!-- UI & Design -->
+  <img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/>
+</p>
 
-Tech Stack: Python, Flask, PostgreSQL, Redis, AWS
+---
 
-### 3. AI-driven Data Analysis Tool
-Implemented ML-powered insights on cybersecurity logs
+### 📊 GitHub Stats
 
-Enabled automated anomaly detection and reporting
+<div align="center">
+  <a href="https://github.com/hashimiac" target="_blank">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hashimiac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimiac&layout=compact&langs_count=16&theme=radical"/>
+  </a>
+</div>
 
-Tech Stack: Python, Pandas, Scikit-learn, FastAPI
+---
 
-## 🌱 What I’m Learning
-Advanced Cloud Architectures & Microservices
+### 🌍 Connect with Me
 
-AI applications in Cybersecurity & Digital Forensics
+<p align="center">
+  <a href="mailto:chashimiftikhar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/hashimiac"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hashim-i-chaudhry"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-SaaS product scaling & DevOps automation
-
-## 📫 Connect With Me
-LinkedIn: linkedin.com/in/hashim-i-chaudhry
-
-Portfolio: hashimiac.github.io/portfolio
+---
