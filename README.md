@@ -17,7 +17,7 @@
 * 🌐 6+ years of professional experience in Backend Development, Cybersecurity, AI modules, and Data Systems
 * 🔍 Expert in digital forensics, building secure and scalable applications, and designing SaaS products
 * ⚡ Passionate about AI integration in cybersecurity and forensic tools
-* 🛠 Skills: Python, FastAPI, Flask, SQL, PostgreSQL, Docker, AWS, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
+* 🛠 Skills: Python, FastAPI, Flask, SQL, MongoDB, Docker, Git, REST APIs, Microservices, Digital Forensics, AI/ML modules
 
 ---
 
